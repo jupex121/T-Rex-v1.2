@@ -1,5 +1,5 @@
 var gameState = "home";
-var coins = 10000;
+var coins = 0;
 var el = 0;
 
 var trex, trex_running, trex_collided;
